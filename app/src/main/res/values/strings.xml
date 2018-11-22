@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MathApp</string>
+    <string name="start">Start</string>
+    <string name="select"> Select:</string>
+    <string name="typeTriangle">Triangle's type</string>
+    <string name="triangle">Triangle </string>
+    <string name="equilateral">Equilateral</string>
+    <string name="isoceles">Isoceles</string>
+    <string name="scalene">Scalene</string>
+    <string name="side">Side</string>
+    <string name="type">Type</string>
+    <string name="calc">Calc</string>
+    <string name="check">Check</string>
+    <string name="speedconverter"> Speed Converter</string>
+    <string name="speed">Speed</string>
+</resources>

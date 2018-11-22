@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MathApp</string>
+    <string name="start">Iniciar</string>
+    <string name="select"> Selecione:</string>
+    <string name="triangle">Triângulo </string>
+    <string name="typeTriangle">Tipos de triâgulos</string>
+    <string name="equilateral">Equilátero</string>
+    <string name="isoceles">Isóceles</string>
+    <string name="scalene">Escaleno</string>
+    <string name="side">Lado</string>
+    <string name="type">Tipo</string>
+    <string name="calc">Calcular</string>
+    <string name="check">Check</string>
+    <string name="speedconverter"> Conversor de Velocidade</string>
+    <string name="speed">Velocidade</string>
+</resources>
